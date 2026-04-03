@@ -38,16 +38,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ---
 
-## 📂 Project Structure
 
-```
-calculator/
-│── index.html
-│── style.css
-│── script.js
-```
-
----
 
 ## 💡 Future Improvements
 
