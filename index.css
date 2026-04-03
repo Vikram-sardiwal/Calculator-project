@@ -1,0 +1,42 @@
+body {
+  background-image: url(rainbow-header-bg.jpg);
+  background-size: 100%;
+  /* background-repeat: no-repeat; */
+}
+.container {
+  /* height: 400px; */
+  width: 300px;
+  border: 10px solid steelblue;
+  margin: auto;
+  /* margin-top: 60px; */
+  border-radius: 20px;
+}
+.A input {
+  height: 50px;
+  width: 300x;
+  font-size: x-large;
+  border: 5px solid khaki;
+  border-radius: 10px;
+  color: lightcoral;
+}
+.main {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 0px;
+  background-color: lightsalmon;
+}
+button {
+  height: 60px;
+  border: 3px solid black;
+  border-radius: 5px;
+  font-size: x-large;
+  background-color: paleturquoise;
+
+  cursor: pointer;
+  color: peru;
+  /* border: 10px solid gray;
+  border-radius: 5px; */
+}
+button:hover {
+  background-color: aquamarine;
+}
